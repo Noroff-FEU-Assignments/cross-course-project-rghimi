@@ -7,4 +7,7 @@
 }
 body {
   background-image: url(./images/fabio-oyXis2kALVg-unsplash.jpg);
+  color: white;
+  font-family: "poppins", sans-serif;
+  padding: 20px 10px;
 }
