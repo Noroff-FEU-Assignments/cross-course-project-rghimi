@@ -9,6 +9,13 @@ body {
   background-image: url(./images/fabio-oyXis2kALVg-unsplash.jpg);
   color: white;
   font-family: "poppins", sans-serif;
-  padding: 20px 10px;
+  padding: 40px 40px;
   font-size: 15px;
+}
+.web-security-question {
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+  margin: 5px;
 }
