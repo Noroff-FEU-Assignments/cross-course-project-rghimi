@@ -15,15 +15,22 @@ body {
 div {
 }
 .web-security-question,
-.web-security-answer2 {
+.web-security-answer {
   border: 1px solid red;
   border-radius: 10px;
   padding: 10px;
-  width: 100%;
+  width: 50%;
   margin: 5px;
 }
-.web-security-answer2 {
-  width: 50%;
-  padding-left: 40px;
+.web-security-answer {
+  width: 45%;
+  padding-right: 60px;
   float: right;
+}
+.websec {
+  border: 1px solid gold;
+  border-radius: 10px;
+
+  padding: 10px;
+  width: 50%;
 }
